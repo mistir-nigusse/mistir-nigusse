@@ -13,7 +13,6 @@
 
 
 ## About me:
-- 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](mistirnigusse0@gmail.com)
 - 💬 Ask me about `Generative AI` or `Software Engineering`
